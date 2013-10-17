@@ -8,5 +8,6 @@
     <string name="query_label">Enter Search Term</string>
     <string name="title_activity_image_display">Selected Image</string>
         <string name="title_activity_settings">SettingsActivity</string>
+        <string name="size_label">Image Size</string>
 
 </resources>
